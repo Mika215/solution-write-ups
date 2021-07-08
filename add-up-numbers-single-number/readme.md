@@ -191,7 +191,8 @@ function addUp(num) {
 [Carbon](https://edabit.com/user/2PaATWytPkFGENDqK) has used a for loop iteration to add each number between one and the number passed as an argument.
 Below is the screen Shoot of my tracing table that i have used to understand each steps of code execution for this function.
 
-![Alt "Tracing Table screen Shoot"](<img src="/carbon-addup-tracing-table.JPG">)
+[my-Tracing-table](https://github.com/Mika215/solution-write-ups/blob/master/add-up-numbers-single-number/carbon-addup-tracing-table.JPG )
+![Alt](https://github.com/Mika215/solution-write-ups/blob/master/add-up-numbers-single-number/carbon-addup-tracing-table.JPG "Tracing table")
 
 
 ### Possible Refactors
